@@ -95,6 +95,22 @@ Those models are the most generic ones, achieving best all-over performance, we 
 </Tabitem>
 
 
+<Tabitem value="Arabic-Tunisian" label="Arabic-Tunisian">
+
+#### Acoustic model
+- A chain model based on  deep Time Delay Neural Network (TDNN), trained on 445 hours of a Tunisian dataset with diverse content from various sources and augmented with voice conversion.
+
+[v1 AM download](https://dl.linto.ai/downloads/model-distribution/acoustic-models/ar-TN/linto-asr-ar-tn-0.1.zip)
+
+#### Decoding graph
+- This language model is trained on a corpus of more than 4 million Tunisian Arabic sentences, including some French and English words, using SRILM tools.
+
+[v1.1 LM download](https://dl.linto.ai/downloads/model-distribution/decoding-graphs/LVCSR/ar-TN/decoding_graph-ar-tn-0.1.zip)
+
+</Tabitem>
+
+
+
 </Tabs>
 
 ## Community built models & Other languages
