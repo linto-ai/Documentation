@@ -95,7 +95,7 @@ Those models are the most generic ones, achieving best all-over performance, we 
 </Tabitem>
 
 
-<Tabitem value="Arabic-Tunisian" label="Arabic-Tunisian">
+<Tabitem value="Arabic-Tunisian" label="Arabic TU">
 
 #### Acoustic model
 - A chain model based on  deep Time Delay Neural Network (TDNN), trained on 445 hours of a Tunisian dataset with diverse content from various sources and augmented with voice conversion.
